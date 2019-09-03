@@ -1,7 +1,7 @@
-def find_element_index(array, value_to_find)
+def find_element_index(scale, value_to_find)
 counter=0 
-while array[counter] do
-  puts array[counter]
+while scale[counter] do
+  puts scale[counter]
   counter += 1
 end
 
