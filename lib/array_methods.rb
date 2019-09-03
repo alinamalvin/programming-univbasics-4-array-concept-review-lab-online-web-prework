@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-p a.scale('a')
+p a.scale('2')
 p a.find_index('b')
 p a.find_index('c')
 end
