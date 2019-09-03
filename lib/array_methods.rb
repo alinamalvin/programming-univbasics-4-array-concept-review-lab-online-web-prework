@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
 p a.scale('2')
-p a.find_index('b')
-p a.find_index('c')
+p a.scale('b')
+p a.scale('')
 end
 
 def find_max_value(array)
