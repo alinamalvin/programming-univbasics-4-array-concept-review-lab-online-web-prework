@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
 p a.scale('2')
-p a.scale('b')
+p a.scale('3')
 p a.scale('')
 end
 
