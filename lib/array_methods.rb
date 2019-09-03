@@ -1,5 +1,8 @@
-def find_element_index(array, value_to_find)
-  # Add your solution here
+def find_element_index(scale, value_to_find)
+counter=0 
+while scale[counter] do
+  puts scale[counter]
+  counter += 1
 end
 
 def find_max_value(array)
