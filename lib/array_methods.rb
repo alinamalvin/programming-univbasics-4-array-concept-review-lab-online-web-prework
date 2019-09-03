@@ -4,7 +4,6 @@ while array[counter] do
   puts array[counter]
   counter += 1
 end
-end
 
 def find_max_value(array)
   # Add your solution here
