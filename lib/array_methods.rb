@@ -2,7 +2,9 @@ def find_element_index(array, value_to_find)
   counter=0
   while counter < scale.length do
     return scale[counter]
- if 
+ if scale[counter]==nil {
+   return nil
+ }
 end
 
 def find_max_value(array)
